@@ -36,9 +36,9 @@ La base de datos presenta una estructura jerárquica (piramidal):
 
 ---
 
-## ⚙️ Funcionalidades principales
+## Funcionalidades principales
 
-### 📊 Vistas (Views)
+### Vistas (Views)
 Se desarrollaron vistas para facilitar el análisis:
 
 - `v_violencias`: estado de repartidores afectados  
@@ -49,7 +49,7 @@ Se desarrollaron vistas para facilitar el análisis:
 
 ---
 
-### 🧮 Funciones
+### Funciones
 Funciones orientadas al análisis de datos y minería de texto:
 
 - Estimación de cantidad de huelguistas  
